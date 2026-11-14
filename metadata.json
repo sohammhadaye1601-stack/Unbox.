@@ -1,0 +1,8 @@
+{
+  "name": "Unbox Your Desire — UnboxRTN Ratnagiri Food & Online Delivery",
+  "description": "Unbox Your Desire (UnboxRTN) is Ratnagiri's pioneering local food and online delivery platform. Order from local restaurants with no minimum cart value, live order tracking, and 24/7 support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
